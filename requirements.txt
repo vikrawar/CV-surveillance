@@ -1,0 +1,5 @@
+opencv-python>=4.5.3
+torch>=1.9.0
+pandas>=1.2.0
+numpy>=1.21.0
+twilio>=6.0.0
