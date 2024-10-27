@@ -1,6 +1,6 @@
 # Child Safety Surveillance System
 
-This project is a real-time child safety surveillance system developed for a CV hackathon. It utilizes YOLOv5 for object detection to monitor playgrounds and alert caregivers when the number of children falls below a specified threshold.
+This project is a real-time child safety surveillance system developed for Voxel51's CV hackathon. It utilizes YOLOv5 for object detection to monitor playgrounds and alert caregivers when the number of children falls below a specified threshold.
 
 ## Features
 
